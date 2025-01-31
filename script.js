@@ -35,7 +35,7 @@ function addTask() {
     deleteContainer.className = 'delete-container';
     const deleteBtn = document.createElement('button');
     deleteBtn.className = 'delete-btn';
-    deleteBtn.textContent = 'Delete';
+    deleteBtn.textContent = 'Sil';
     deleteBtn.addEventListener('click', function () {
         taskList.removeChild(taskRow);
     });

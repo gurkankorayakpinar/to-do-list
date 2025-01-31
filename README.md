@@ -4,4 +4,4 @@
 
 ***
 
-- A
+- Listedeki maddelerin sırası değiştirilebilmektedir.
