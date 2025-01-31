@@ -4,4 +4,6 @@
 
 ***
 
-- Listedeki maddelerin sırası değiştirilebilmektedir.
+- Silme işlemi için "Sil" butonu mevcuttur.
+
+- Sıralama değişikliği için ok işaretleri kullanılabilmektedir.
