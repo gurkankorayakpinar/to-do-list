@@ -8,4 +8,4 @@
 
 - Sıralama değişikliği için ok işaretleri mevcuttur.
 
-- Mouse "sağ tık" özelliği devre dışı bırakılmıştır.
+- Mouse "sağ tık" ile menü açma özelliği devre dışı bırakılmıştır.

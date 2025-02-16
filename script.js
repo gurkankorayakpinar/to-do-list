@@ -86,7 +86,7 @@ function moveDown() {
     }
 }
 
-// "Sağ tık" devre dışı (tüm sayfa için)
+// "Sağ tık ile menü açma" özelliği devre dışı
 document.addEventListener('contextmenu', (event) => {
     event.preventDefault();
 });
