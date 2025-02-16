@@ -4,6 +4,8 @@
 
 ***
 
-- Silme işlemi için "Sil" butonu mevcuttur.
+- Oluşturulan listenin elemanları silinebilmektedir.
 
 - Sıralama değişikliği için ok işaretleri mevcuttur.
+
+- Mouse "sağ tık" özelliği devre dışı bırakılmıştır.

@@ -85,3 +85,8 @@ function moveDown() {
         taskRow.parentNode.insertBefore(nextTaskRow, taskRow);
     }
 }
+
+// "Sağ tık" devre dışı (tüm sayfa için)
+document.addEventListener('contextmenu', (event) => {
+    event.preventDefault();
+});
