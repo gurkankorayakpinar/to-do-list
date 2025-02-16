@@ -10,7 +10,7 @@ function addTask() {
     const taskText = taskInput.value.trim();
 
     if (taskText === '') {
-        alert('Please enter a task!');
+        alert('Boş bırakmayınız!');
         return;
     }
 
