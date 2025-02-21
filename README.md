@@ -8,4 +8,6 @@
 
 - Sıralama değişikliği için ok işaretleri mevcuttur.
 
+- Database yapısı bulunmadığı için, F5 yapıldığında liste sıfırlanmaktadır.
+
 - Mouse "sağ tık" ile menü açma özelliği devre dışı bırakılmıştır.
