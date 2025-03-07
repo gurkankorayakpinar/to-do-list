@@ -4,10 +4,8 @@
 
 ***
 
-- Oluşturulan listenin elemanları silinebilmektedir.
+- Liste üzerinde "silme" ve "sıralama değişikliği" işlemleri yapılabilmektedir.
 
-- Sıralama değişikliği için ok işaretleri mevcuttur.
-
-- Database yapısı bulunmadığı için, F5 yapıldığında liste sıfırlanmaktadır.
+- Database yapısının bulunmaması sebebiyle, sayfa yenilendiğinde liste sıfırlanmaktadır.
 
 - Mouse "sağ tık" ile menü açma özelliği devre dışı bırakılmıştır.
